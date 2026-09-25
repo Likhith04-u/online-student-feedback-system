@@ -146,3 +146,6 @@ Then create a Pull Request on GitHub and merge it.
 - Export feedback to CSV/PDF
 - Password reset
 - Email notifications
+## Branch Development
+
+Student feedback features are maintained and tested using Git branches.
